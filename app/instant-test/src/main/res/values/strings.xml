@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">instant-test</string>
+    <string name="title_instant_test">Module Title</string>
+    <string name="title_activity_instant_main">InstantMainActivity</string>
+</resources>
